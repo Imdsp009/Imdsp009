@@ -45,11 +45,6 @@ I'm a passionate **Computer Engineering** student at [Thapar Institute of Engine
 
 ---
 
-### 🎭 Hobbies & Interests
-- 🎭 **Acting**: Competed in interstate competitions in Delhi.
-- 🎶 **Music**: Enjoy exploring diverse genres.
-- ✍️ **Content Writing**: Passionate about storytelling and creative expression.
 
----
 
 📌 *"Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions! Let's create something amazing together."*
